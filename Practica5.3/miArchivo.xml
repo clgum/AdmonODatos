@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+    <pelicula peli_id="1">
+        <titulo>La Campaña</titulo>
+        <año>2012</año>
+        <genero>Drama</genero>
+        <clasificacion>B</clasificacion>
+    </pelicula>
+
+    <pelicula peli_id="2">
+        <titulo>Mi villano favorito</titulo>
+        <año>2010</año>
+        <genero>Infantil</genero>
+        <clasificacion>A</clasificacion>
+    </pelicula>
+
+    <pelicula peli_id="3">
+    <titulo>The conjuring</titulo>
+    <año>2013</año>
+    <genero>Terror</genero>
+    <clasificacion>B15</clasificacion>
+    </pelicula>
+<pelicula peli_id="4"><titulo>This Is Us</titulo><año>2012</año><genero>Documental</genero><clasificacion>A</clasificacion></pelicula></peliculas>
