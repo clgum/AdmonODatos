@@ -1,0 +1,16 @@
+.ct-series-a .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: rgba(204, 64, 111, 0.842);
+  stroke-width: 100px;
+  /* El ancho de las barras */
+  
+}
+.subt{
+  display: block;
+  color: black;
+  font-size: large;
+}
+.centro{
+  text-align: center;
+  color: black;
+}

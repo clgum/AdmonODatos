@@ -1,0 +1,11 @@
+.titulo{
+    text-align: center;
+    background-color:rgba(204, 64, 111, 0.842);
+    color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgb(190, 108, 108);
+    margin-top: 3px;
+    /*border-radius: 8px;*/
+    padding: 3px;
+}
